@@ -22,5 +22,3 @@ Hi 👋, I'm Periyasamy S<br>🌱 I’m currently working in PHP, HTML, MySQL an
 
 ---
 [![](https://visitcount.itsvg.in/api?id=periya&label=Visitors&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
