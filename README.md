@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="500" src="https://www.notion.so/image/https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F836HiJc7pgzy8iNXCn%2Fgiphy.gif?table=block&id=ad5a3fbf-1013-463d-bf96-9cc80de73747&cache=v2">
-Hi 👋, I'm Periyasamy S<br>🌱 I’m currently working in PHP, HTML, MySQL and React JS and Python etc...<br>⚡ Fun fact I am good at gaming and I think i'm funny also
+Hi 👋, I'm Periyasamy S<br>🌱 I’m currently working in PHP, HTML, MySQL, Laravel, Javascript, React JS and Python etc...<br>⚡ Fun fact I am good at gaming and I think i'm funny also
 
 
 ## 🌐 Socials:
