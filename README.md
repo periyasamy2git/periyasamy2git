@@ -22,4 +22,4 @@ Hi 👋, I'm Periyasamy S<br>🌱 I’m currently working in PHP, HTML, MySQL, L
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=periya&label=Visitors&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=periyasamy2git&label=Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
