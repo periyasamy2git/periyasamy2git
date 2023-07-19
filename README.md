@@ -13,7 +13,6 @@ Hi 👋, I'm Periyasamy S<br>🌱 I’m currently working in PHP, HTML, MySQL, L
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=periyasamy2git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=periyasamy2git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=periyasamy2git&theme=dark&hide_border=false&include_all_commits=true&count_private=ture)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=periyasamy2git&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
